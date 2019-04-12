@@ -58,3 +58,9 @@ var sum = 0 + 20;
 ```
 # 7
 ```
+var difference = 45 - 0;
+var difference = 20 - 8;
+//var difference = 45 - 0;
+```
+# 8
+
