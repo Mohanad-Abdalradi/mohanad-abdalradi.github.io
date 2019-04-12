@@ -83,3 +83,12 @@ myVar = myVar++;
 ```
 # 11
 ```js
+var myVar = 11;
+myVar--;
+
+// Only change code below this line
+myVar = myVar - 1;
+var myVar = 10;
+```
+# 12
+```js
