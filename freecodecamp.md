@@ -12,3 +12,10 @@ kkkkk */
 
 ```js
 
+// Example
+var ourName;
+
+// Declare myName below this line
+var myName;
+```
+```js
