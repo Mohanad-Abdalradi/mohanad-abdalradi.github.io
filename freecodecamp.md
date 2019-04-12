@@ -19,4 +19,17 @@ var ourName;
 var myName;
 ```
 # 3
+
 ```js
+
+// Setup
+var a;
+var b = 2;
+
+// Only change code below this line
+var a;
+a = 7;
+var b = a;
+```
+```js
+js
