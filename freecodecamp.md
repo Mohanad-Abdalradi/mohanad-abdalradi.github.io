@@ -31,7 +31,7 @@ var a;
 a = 7;
 var b = a;
 ```
-# 3
+# 4
 ```js
 // Example
 var ourVar = 19;
@@ -39,6 +39,6 @@ var ourVar = 19;
 // Only change code below this line
 var a = 9;
 ```
-# 3
+# 5
 ```js 
 ```
