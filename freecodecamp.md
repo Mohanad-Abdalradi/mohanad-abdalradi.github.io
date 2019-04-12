@@ -69,4 +69,8 @@ var product = 10 * 8;
 ```
 # 9
 ```
-
+var quotient = 66 / 0;
+var quotient = 6 / 3;
+```
+# 10
+```
