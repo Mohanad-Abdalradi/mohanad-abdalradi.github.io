@@ -63,4 +63,10 @@ var difference = 20 - 8;
 //var difference = 45 - 0;
 ```
 # 8
+```
+var product = 8 * 0;
+var product = 10 * 8;
+```
+# 9
+```
 
