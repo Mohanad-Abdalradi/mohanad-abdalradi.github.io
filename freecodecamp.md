@@ -74,3 +74,12 @@ var quotient = 6 / 3;
 ```
 # 10
 ```
+var myVar = 87;
+myVar = myVar++;
+// Only change code below this line
+myVar = myVar + 1;
+var myVar = 88;
+myVar = myVar++;
+```
+# 11
+```
