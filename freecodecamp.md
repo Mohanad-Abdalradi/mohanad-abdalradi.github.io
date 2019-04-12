@@ -52,3 +52,6 @@ properCamelCase = "A String";
 titleCaseOver = 9000;
 ```
 # 6
+```
+var sum = 10 + 0;
+var sum = 0 + 20;
